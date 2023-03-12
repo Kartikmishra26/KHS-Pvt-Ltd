@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>KHS Pvt. Ltd.</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      nav {
+        background-color: #444;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav li {
+        display: inline-block;
+        margin: 0 10px;
+      }
+      nav a {
+        color: #fff;
+        text-decoration: none;
+      }
+      section {
+        padding: 20px;
+      }
+      footer {
+        background-color: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      button {
+        background-color: #008CBA;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #00446e;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>KHS Pvt. Ltd.</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h2>Welcome to KHS Pvt. Ltd.</h2>
+      <p>Welcome to to this great opportunity, where we believe that making money is easier as easily you sleep on your bed. Our team is passionate about delivering money earning tasks everyday, and we pride ourselves on providing you this service. With years of experience in the industry, we understand the importance of money, and strive to exceed our customers' expectations in every way. Whether you looking for earning opportunity, or need a stable job, we're here to help. Explore our website to learn more about what makes us the go-to choice for jobs or business opportunities, and discover how we can help you achieve your goals. Thank you for considering KHS Pvt. Ltd., we look forward to working with you! .</p>
+    </section>
+    <button type="button"><a href="https://www.instagram.com/kartikmishra_077/">Contact Us</a></button>
+    <footer>
+      <p>&copy; KHS Pvt. Ltd.</p>
+    </footer>
+  </body>
+</html>
